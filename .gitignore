@@ -1,12 +1,6 @@
+# Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-.pytest_cache/
-.pytest_cache
-*.swp
-.DS_Store
-.vscode/
-*.log
-tmp/
-*.egg-info/
+venv/
+env/
+.env
