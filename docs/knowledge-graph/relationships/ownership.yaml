@@ -1,0 +1,10 @@
+relationships:
+  # Example relationship definitions:
+  # - from: REPO-55IP-DATA-SETUP
+  #   type: owns
+  #   to: SYSTEM-55IP-DATA-SETUP
+  # - from: SYSTEM-55IP-DATA-SETUP
+  #   type: stores_in
+  #   to: DB-POSTGRES-PRIMARY
+
+  # Add actual relationships as evidence becomes available.
